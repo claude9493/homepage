@@ -6,6 +6,8 @@ widget: portfolio
 # This file represents a page section.
 headless: true
 
+active: false
+
 # Order that this section appears on the page.
 weight: 65
 
@@ -42,6 +44,9 @@ design:
   #   3 = Card
   #   5 = Showcase
   view: 2
+  spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+    padding: ["30px", "0", "30px", "0"]
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false

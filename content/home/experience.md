@@ -5,11 +5,15 @@ date_format: Jan 2006
 widget_id: Working Experience
 headless: true
 weight: 40
-title: Experience
+title: Working Experience
 subtitle: null
 design:
   columns: "2"
+  spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+    padding: ["30px", "0", "30px", "0"]
 ---
+
 <!--StartFragment-->
 
 * TA of MA417 Nonparametric Statistics (Spring 2020, SUSTech)
