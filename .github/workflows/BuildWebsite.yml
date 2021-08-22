@@ -33,6 +33,13 @@ jobs:
         run: |
           hugo mod graph
           hugo
+      - name: Commit
+        with:
+          author_name: Yun
+          message: "Commit"
+          add: "./public"
+        env:
+          GITHUB_TOKEN: ${{ secrets.TOKEN }} 
         
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
