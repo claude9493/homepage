@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Yun Zhang # Website name
-baseurl: 'https://www.claude9493.com/' # Website URL
+baseurl: 'https://claude9493.github.io' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
