@@ -33,7 +33,9 @@ jobs:
         run: |
           hugo mod graph
           hugo
+          
       - name: Commit
+        uses: EndBug/add-and-commit@v4
         with:
           author_name: Yun
           message: "Commit"
