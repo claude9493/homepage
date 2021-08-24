@@ -1,4 +1,6 @@
-claude9493.com
+My new homepage: [claude9493.com](https://claude9493.com/)
+
+Still under construction.
 
 ----------
 
