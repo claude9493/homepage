@@ -1,5 +1,5 @@
 ---
-widget: page
+widget: collections
 widget_id: publications
 headless: true
 weight: 30
