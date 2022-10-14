@@ -1,13 +1,14 @@
 ---
-title: "Hop-Mix-DNS: Hop-wise Mixing Dynamic Negative Sampling for Graph Neural
-  Network-based Recommendation Systems"
-subtitle: (Submitted)
+title: Hop-Mix-DNS
+subtitle: "Hop-Mix-DNS: Hop-wise Mixing Dynamic Negative Sampling for Graph
+  Neural Network-based Recommendation Systems"
 publication_types:
   - "1"
 authors:
   - Zhang Yun
   - Shi Kexin
   - Jing Bingyi
+publication: (Submitted)
 abstract: "Recommendation system models users’ preference on items based on past
   interactions history. Lately, the graph neural network (GNN) has become a
   powerful collaborative filtering (CF) solution, which leverages the high-order
