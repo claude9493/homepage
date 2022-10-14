@@ -1,6 +1,6 @@
 ---
 widget: collections
-widget_id: publication
+widget_id: publications
 headless: true
 weight: 30
 active: true
